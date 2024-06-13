@@ -1,3 +1,4 @@
+![Screenshot 2024-06-13 115541](https://github.com/deepa-gupta14/CODETECH-TASK-2/assets/114744866/9ab90d3f-516e-40b4-a109-11421db4d4fd)
 # CODETECH-TASK-2
  WEATHER APP
  Name : Deepa Gupta
